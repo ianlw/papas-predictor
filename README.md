@@ -45,7 +45,7 @@ flutter run
 
 | 📸 Captura de Imagen | 📊 Predicción de Papa |
 |----------------------|----------------------|
-| ![Captura 1](https://ianlw.github.io/papas-page/assets/home.png) | ![Captura 2](https://ianlw.github.io/papas-page/assets/predecir.png) |
+| ![Captura 1](https://ianlw.github.io/papas-page/assets/img/predecir.png) | ![Captura 2](https://ianlw.github.io/papas-page/assets/img/home.png) |
 
 ---
 
