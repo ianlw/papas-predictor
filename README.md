@@ -5,46 +5,47 @@
 **Papas Predictor** es una aplicación móvil desarrollada en **Flutter** que permite identificar variedades de papas a partir de imágenes. Utiliza **procesamiento de imágenes y modelos de aprendizaje automático** para reconocer diferentes tipos de papas con alta precisión.  
 
 🔗 **Página del proyecto:** [Papas Predictor](https://ianlw.github.io/papas-page/)  
-📎 **Repositorio en GitHub:** [papas-predictor](https://github.com/ianlw/papas-predictor)  
+📎 **Repositorio Frontend:** [Papas-predictor](https://github.com/ianlw/papas-predictor)  
+📎 **Repositorio Backend:** [Papas-back](https://github.com/ianlw/papas-back)  
 
 ---
 
 ## 🚀 Características  
 
-✅ **Reconocimiento Automático**: Predice la variedad de papa a partir de una imagen.  
-📸 **Captura de Imágenes**: Toma fotos en la aplicación o selecciona imágenes de la galería.  
-🎨 **Análisis de Características**: Evalúa color, forma y textura para la predicción.  
-📊 **Modelo de IA Entrenado**: Clasifica más de **83 variedades** con un **95.46% de precisión**.  
-💡 **Interfaz Amigable**: Diseño intuitivo y fácil de usar.  
+- 📸 **Captura de Imágenes**: Toma fotos en la aplicación o selecciona imágenes de la galería.  
+- ✅ **Reconocimiento Automático**: Predice la variedad de papa a partir de una imagen.  
+- 🎨 **Análisis de Características**: Evalúa color, forma y textura para la predicción.  
+- 📊 **Modelo de IA Entrenado**: Clasifica más de _83 variedades_ con un *95.46% de precisión*.
+- 💡 **Interfaz Amigable**: Diseño intuitivo y fácil de usar.  
 
 ---
 
 ## 🛠 Instalación  
 
-1⃣ **Clona el repositorio**  
+1. **Clona el repositorio**  
 ```bash
 git clone https://github.com/ianlw/papas-predictor.git
 cd papas-predictor
 ```  
 
-2⃣ **Instala las dependencias**  
+2. **Instala las dependencias**  
 ```bash
 flutter pub get
 ```  
 
-3⃣ **Ejecuta la aplicación**  
+3. **Ejecuta la aplicación**  
 ```bash
 flutter run
 ```  
-📌 *Asegúrate de tener Flutter instalado y configurado en tu sistema.* [Guía de instalación](https://docs.flutter.dev/get-started/install)  
 
+| El servidor backend debe ser configurado en la aplicación mediante la ip pública y estática. 
 ---
 
 ## 📷 Capturas de Pantalla  
 
 | 📸 Captura de Imagen | 📊 Predicción de Papa |
 |----------------------|----------------------|
-| ![Captura 1](https://ianlw.github.io/papas-page/assets/captura1.png) | ![Captura 2](https://ianlw.github.io/papas-page/assets/captura2.png) |
+| ![Captura 1](https://ianlw.github.io/papas-page/assets/home.png) | ![Captura 2](https://ianlw.github.io/papas-page/assets/predecir.png) |
 
 ---
 
@@ -69,7 +70,3 @@ flutter run
 ## 🐝 Licencia  
 
 Este proyecto está bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.  
-
-📩 **Contacto:** Para dudas o sugerencias, abre un issue o visita la [página oficial](https://ianlw.github.io/papas-page/).  
-
-💡 ¡Esperamos que Papas Predictor te ayude a descubrir más sobre el mundo de las papas! 🥔✨  
